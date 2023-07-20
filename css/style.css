@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/thumb-1920-1169862.jpg);
+}
+.navbar{
+    background-color: #F72585;
+}
+.Informacionprincipal{
+    color: #4361EE;
+    font-family: 'Unbounded', cursive;;
+    text-align: center;
+}
+.Informacionprincipal1{
+    text-align: center;
+}
+.Informacionprincipal1 a{
+    border: solid #4361EE;
+    text-decoration: none;
+    color: #4361EE;
+    background-color: black;
+    margin: 1px;
+    padding: 3px;
+}
+main{
+    height: 800px;
+}
+footer{
+    background-color: #F72585;
+    height: 80px;
+}
